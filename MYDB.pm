@@ -4,9 +4,9 @@ use strict;
 
 use DBI;
 
-my $host = q[qa-redlist-db-m1.vega.ironport.com];
-my $user = q[qa_super];
-my $passwd = q[f1neTu&3];
+my $host = q[test_host];
+my $user = q[user];
+my $passwd = q[user_passwd];
 my $db = q[alutsysh_test];
 
 
